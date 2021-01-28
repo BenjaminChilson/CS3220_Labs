@@ -1,4 +1,6 @@
-/**  File name : hello-world-c.c*/
+/*
+ *  File name : hello-world-c.c
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
